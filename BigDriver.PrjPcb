@@ -71,6 +71,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DIXNMSJC
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for BigDriver\Design Rule Check - BigDriver.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
